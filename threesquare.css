@@ -1,0 +1,16 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+html,body{
+    height: 100%;
+    width: 100;
+}
+body{background-color: #f4f42b;
+display: flex;}
+div{width: 200px;
+height: 200px;
+display: flex;}
+#box1{background: #f06868;}
+#box2{background: #6937af;}
+#box3{background: #30b184;}
