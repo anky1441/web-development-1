@@ -16,8 +16,8 @@ height: 100%;
     justify-content: center;
 }
 .shape{
-    width: 200px;
-    height: 200px;
+    width: 300px;
+    height: 300px;
     border:2px solid black;
     margin-left: 10px;
     margin-top: 10px;
@@ -28,11 +28,10 @@ height: 100%;
 #circle{
     border-radius: 50%;
 }
-#circle:hover{background: #706d6d;}
-#diamond:hover{background: hsl(220, 36%, 44%);
- }
+#circle:hover{ background:pink;}
+#diamond:hover{background:purple;}
 #diamond{ rotate: 45deg;
- margin-top: 50px;}
+ margin-top: 70px;}
 #diamond h1{ rotate: -45deg;}
 #square:hover{
-    background: #ccdc52;}
+    background:red;}
